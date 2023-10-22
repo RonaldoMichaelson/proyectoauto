@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(197, 197, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .hidden {
+        display: none;
+      }
+      
+      .carrito-table {
+        margin-top: 20px;
+      }
+      
+      .comprar-button {
+        margin-top: 10px;
+      }
+    body {
+        font-size: 14px;
+      }
+        
