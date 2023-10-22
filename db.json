@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "autos": [
+    {
+      "nombre": "Toyota Camry",
+      "marca": "Toyota",
+      "precio": 25000.0
+    },
+    {
+      "nombre": "Ford Mustang",
+      "marca": "Ford",
+      "precio": 45000.0
+    },
+    {
+      "nombre": "Honda Civic",
+      "marca": "Honda",
+      "precio": 22000.0
+    },
+    {
+      "nombre": "Chevrolet Silverado",
+      "marca": "Chevrolet",
+      "precio": 35000.0
+    },
+    {
+      "nombre": "Volkswagen Golf",
+      "marca": "Volkswagen",
+      "precio": 28000.0
+    },
+    {
+      "nombre": "Nissan Altima",
+      "marca": "Nissan",
+      "precio": 23000.0
+    },
+    {
+      "nombre": "BMW 3 Series",
+      "marca": "BMW",
+      "precio": 48000.0
+    },
+    {
+      "nombre": "Jeep Wrangler",
+      "marca": "Jeep",
+      "precio": 40000.0
+    },
+    {
+      "nombre": "Mercedes-Benz E-Class",
+      "marca": "Mercedes-Benz",
+      "precio": 55000.0
+    },
+    {
+      "nombre": "Audi A4",
+      "marca": "Audi",
+      "precio": 42000.0
+    }
+  ]
+}
